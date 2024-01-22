@@ -1,6 +1,6 @@
 ### Hi there 👋
-⚡ I'm learning currently learning about Quantum Mechanics through Chemistry lens  
-🌱 I'm a coding beginner  
+⚡ I'm currently learning about Quantum Mechanics through a Chemistry lens  
+🌱 I'm a python beginner  
 😄 I'm up for any sport but basketball is my favorite  
 <!--
 **djogos1/djogos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
